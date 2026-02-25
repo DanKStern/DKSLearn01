@@ -39,4 +39,4 @@ DKSLearn01/
 
 ## Status
 
-🚧 In progress — initializing project
+🚧 In progress — Git initialized and synced to GitHub. Next: build index.html and Banner component.
