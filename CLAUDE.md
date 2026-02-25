@@ -39,4 +39,5 @@ DKSLearn01/
 
 ## Status
 
-🚧 In progress — Git initialized and synced to GitHub. Next: build index.html and Banner component.
+🚧 In progress — Next step: create index.html in project root and components/Banner.jsx.
+See chat history for file contents. Then commit and push both files.
